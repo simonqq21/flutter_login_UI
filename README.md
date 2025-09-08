@@ -1,6 +1,6 @@
 # flutter_login_ui
 
-A new Flutter project.
+Example flutter login, signup, account, and logout UI with gorouter to explore basic UI concepts in Flutter.
 
 ## Getting Started
 
